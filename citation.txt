@@ -1,0 +1,6 @@
+@article{REPO-224,
+    author = "Liu, Ze and Lin, Yutong and Cao, Yue and Hu, Han and Wei, Yixuan and Zhang, Zheng and Lin, Stephen and Guo, Baining",
+    journal = "arXiv: Computer Vision and Pattern Recognition",
+    title = "{Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.}",
+    year = "2021"
+}
